@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/timeapp/static/css/main.b60704ae.css",
+    "main.js": "/timeapp/static/js/main.37a2a488.js",
+    "index.html": "/timeapp/index.html",
+    "main.b60704ae.css.map": "/timeapp/static/css/main.b60704ae.css.map",
+    "main.37a2a488.js.map": "/timeapp/static/js/main.37a2a488.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b60704ae.css",
+    "static/js/main.37a2a488.js"
+  ]
+}
