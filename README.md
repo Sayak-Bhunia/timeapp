@@ -19,9 +19,13 @@ Welcome to the Real-Time Checker React App repository! This project aims to prov
 ## Getting Started 🚀
 
 1. **Clone the Repository:** Start by cloning this repository to your local machine using the following command:
+   ### git clone https://github.com/your-username/real-time-checker-app.git
 
-2. **Navigate to the Directory:** Move into the project directory:
+3. **Navigate to the Directory:** Move into the project directory:
+   ### cd real-time-checker-app
 
-3. **Install Dependencies:** Install the necessary dependencies using your preferred package manager:
+5. **Install Dependencies:** Install the necessary dependencies using your preferred package manager:
+   ### npm install
 
-3. **Install Dependencies:** Install the necessary dependencies using your preferred package manager:
+3. **Run the App:** Run the app in your local system by using this command:
+   ### npm start
